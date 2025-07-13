@@ -1,3 +1,3 @@
 This is FileB
-This is for squash mergeThis is a new change to file
+This is for squash mergeThis is for squash mergeThis is a new change to file
 This is adding more new stuff
